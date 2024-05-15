@@ -2,7 +2,7 @@
 
 I am Results-driven QA Automation Engineer with a passion for ensuring software quality through meticulous testing and automation. With a solid foundation built over 3 years of experience in the industry, I specialize in creating robust automated test scripts and implementing efficient testing processe
 
-- 🔭 I’m currently working on Playwight.
+🔭 I’m currently working on Playwight.
   
 Contact Me ✉️ [Email](mailto:arshad.md95@gmail.com) 
 
