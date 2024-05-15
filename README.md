@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Results-driven QA Automation Engineer with a passion for ensuring software quality through meticulous testing and automation. With a solid foundation built over 3 years of experience in the industry, I specialize in creating robust automated test scripts and implementing efficient testing processe
+
 <!--
 **ArshadChilakwad/ArshadChilakwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
